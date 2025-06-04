@@ -124,7 +124,7 @@ npm start
 ### Frontend
 
 ```bash
-cd frontend
+cd poke-frontend
 npm test
 ```
 
