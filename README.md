@@ -95,7 +95,7 @@ cd PokeProject
 Recomendado abrir com o **IntelliJ IDEA**
 
 ```bash
-cd backend
+cd poke
 mvn spring-boot:run
 ```
 
@@ -109,7 +109,7 @@ mvn spring-boot:run
 Recomendado abrir com o **VS Code**
 
 ```bash
-cd frontend
+cd poke-frontend
 npm install
 npm start
 ```
